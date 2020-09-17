@@ -13,8 +13,8 @@ if Node Not Intsalled {
 
 To Initialize ExpressJS to folder and run server {
   Open the terminal or Command Prompat and type:
-    ->  npm install express
-    ->  node code_breaker_serverV.js
+    <br>->  npm install express
+    <br>->  node code_breaker_serverV.js
 }
 
 Then open browser and type: localhost:3000 to verify server is running
